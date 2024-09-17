@@ -11,6 +11,10 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Compreendi as diferenças de serviços IaaS, PaaS e SaaS
 - Configuração de instâncias de Banco de Dados
 ---
+- Configurando Recursos de Dimensionamento em Maquinas Virtuais na Azure
+- Área de Trabalho do Azure
+- Azure Functions
+---
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assismedeiros/)
 
