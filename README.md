@@ -19,6 +19,10 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Azcopy [Download - HomeBrew](https://formulae.brew.sh/formula/azcopy)
 - Gerenciador de download - Storage Explorer [Download](https://azure.microsoft.com/pt-br/products/storage/storage-explorer)
 ---
+- Segurança
+- Microsoft Entra ID
+- Microsoft Defender for Cloud
+---
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assismedeiros/)
 
