@@ -34,6 +34,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Ferramentas de Gerenciamento e Implantação
   - Azure Arc
   - Azure ARM
+  - Azure Bicep
 ---
 
 ### Conecte-se comigo
