@@ -31,6 +31,10 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Micosoft Purview
 - Portal de Confiança do Serviço - [Service Trust](https://servicetrust.microsoft.com/)
 ---
+- Ferramentas de Gerenciamento e Implantação
+  - Azure Arc
+  - Azure ARM
+---
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assismedeiros/)
