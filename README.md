@@ -36,6 +36,11 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
   - Azure ARM
   - Azure Bicep
 ---
+- Ferramentas de Monitoramento
+  - Azure Monitor
+  - Azure Log Analytics
+  - Application Insights
+---
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assismedeiros/)
