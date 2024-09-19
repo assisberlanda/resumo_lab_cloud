@@ -23,6 +23,11 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Microsoft Entra ID
 - Microsoft Defender for Cloud
 ---
+- [Calculadora de TCO](https://azure.microsoft.com/pt-br/pricing/tco/calculator/) (Custo Total de Propriedade)
+- [Calculadora de Preço](https://azure.microsoft.com/pt-br/pricing/calculator/) (Custo Mensal de Recursos)
+- Cost Management
+---
+
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assismedeiros/)
 
