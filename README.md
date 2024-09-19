@@ -27,6 +27,10 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - [Calculadora de Preço](https://azure.microsoft.com/pt-br/pricing/calculator/) (Custo Mensal de Recursos)
 - Cost Management
 ---
+- Gerenciamento de Políticas do Azure - Policy
+- Micosoft Purview
+- Portal de Confiança do Serviço - [Service Trust](https://servicetrust.microsoft.com/)
+---
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assismedeiros/)
